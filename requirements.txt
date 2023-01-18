@@ -53,6 +53,7 @@ jupyterlab-git==0.41.0
 jupyterlab-pygments==0.2.2
 jupyterlab_server==2.16.5
 kiwisolver==1.4.4
+LinearRegression==0.0.1
 MarkupSafe==2.1.1
 matplotlib==3.6.2
 matplotlib-inline==0.1.6
