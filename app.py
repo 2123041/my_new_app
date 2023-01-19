@@ -12,4 +12,3 @@ max_weight = st.text_input("")
 if st.button("解く"):
     result = knapsack(weights, values, max_weight)
     st.success(f"最大価値は{result}です")
-
